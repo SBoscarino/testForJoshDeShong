@@ -1,0 +1,15 @@
+{
+  "name": "joshdeshong",
+  "version": "1.0.0",
+  "description": "Stefanie Boscarino coding challenge:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^21.1.0"
+  }
+}
